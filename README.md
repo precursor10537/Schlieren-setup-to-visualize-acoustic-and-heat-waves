@@ -1,4 +1,4 @@
-# Schlieren setup to visualize-acoustic and heat waves
+# Schlieren setup to visualize acoustic and heat waves
 Develop a working Schlieren imaging setup to visualize heat waves and modifying it to visualize acoustic waves. 
 ## Basic Principles
 Small-scale perturbations in the density of air due to gases and pressure waves cause minor alterations in the refractive
